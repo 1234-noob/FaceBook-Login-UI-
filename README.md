@@ -1,2 +1,2 @@
 # FaceBook-Login-UI- 
-This Ui is made using Tailwind Css for better understanding of tailwind 
+This UI is made using Tailwind Css for better understanding of tailwind 
